@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](/Users/fabianabarria/Desktop/404/screenshot.png)
+![screenshot]<img src="/Users/fabianabarria/Desktop/404/screenshot.png">
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
